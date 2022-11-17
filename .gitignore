@@ -71,7 +71,7 @@ go.work
 .idea/**
 *.iml
 *.ipr
-*.xml
+*.idea
 
 # CMake
 cmake-build-*/
